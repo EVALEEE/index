@@ -1,6 +1,6 @@
 ## Welcome to EVA's GITHUB PAGE
 
-![IMG_4696-c200](media/15917655454298/IMG_4696.jpg)
+
 
 ```mermaid
 sequenceDiagram
